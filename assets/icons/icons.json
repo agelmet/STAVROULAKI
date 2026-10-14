@@ -1,16 +1,16 @@
 {
  "source": {
-  "kind": "inline",
-  "ref": "the header logo (inline SVG in index.html)"
+  "kind": "file",
+  "ref": "assets/img/stavroulaki-mark.svg"
  },
- "source_md5": "3ecace1d959cb34bd5d4e64c2a755b8d",
- "version": "8ad24444",
- "tile": null,
+ "source_md5": "34e9b2a5fcaaf10d86b1d8678bb1273a",
+ "version": "e89f7d37",
+ "tile": "#0B1E23",
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "3ecace1d959cb34bd5d4e64c2a755b8d"
+  "e38a27cc45b4a5b963056c0a8bb138ed"
  ],
- "made": "2026-10-12"
+ "made": "2026-10-14"
 }
